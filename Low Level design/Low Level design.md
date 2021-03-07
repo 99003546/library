@@ -12,7 +12,7 @@ Author: Manages authors details of books.
 
 Payment: User pays for the books.
 
-![ClassDiagram.PNG](Aspose.Words.901dad27-0e51-4647-9f01-d3091d3d9b3d.001.png)
+![ClassDiagram.PNG](ClassDiagram.PNG)
 
 
 
