@@ -12,7 +12,7 @@ Author: Manages authors details of books.
 
 Payment: User pays for the books.
 
-![ClassDiagram.PNG](ClassDiagram.PNG)
+![ClassDiagram.PNG](https://github.com/99003546/library/blob/main/Low%20Level%20design/Class_Diagram.png)
 
 
 
